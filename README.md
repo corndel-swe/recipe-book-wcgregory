@@ -59,16 +59,16 @@ The goal today is to make a recipe book in HTML. It won't look great to begin
 with, but we're setting up a solid foundation for a sleek and accessible
 website.
 
-- [ ] Have a look at
+- [x] Have a look at
       [how to set up a HTML document](https://tech-docs.corndel.com/html-css/html-document.html)
 
-- [ ] Find out about
+- [x] Find out about
       [HTML elements](https://tech-docs.corndel.com/html-css/html-elements.html)
 
-- [ ] Learn about
+- [x] Learn about
       [semantic HTML](https://tech-docs.corndel.com/html-css/semantic-html.html)
 
-- [ ] Get introduced to
+- [x] Get introduced to
       [HTML forms](https://tech-docs.corndel.com/html-css/html-forms.html)
 
 - [ ] Dig out some of your favourite recipes and write them up in HTML. Make
