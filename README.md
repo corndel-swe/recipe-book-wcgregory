@@ -71,7 +71,7 @@ website.
 - [x] Get introduced to
       [HTML forms](https://tech-docs.corndel.com/html-css/html-forms.html)
 
-- [ ] Dig out some of your favourite recipes and write them up in HTML. Make
+- [x] Dig out some of your favourite recipes and write them up in HTML. Make
       sure to research and choose the
       [most appropriate elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
       for each part of your page.
