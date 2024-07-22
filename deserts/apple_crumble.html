@@ -6,7 +6,7 @@
     <title>Apple Crumble</title>
 </head>
 <body>
-    <h4>Pizza</h4>
+    <h4>Apple Crumble</h4>
     <img src="../images/apple_crumble.jpg"
     alt="An image of an apple crumble, in a glass tray with a spoonful missing."/>
     <section>
@@ -39,19 +39,13 @@
     <form>
 
         <p>
-            <label for="rating">Rating</label>
-            <select id="rating" name="rating">
-                <option value="1">1 out of 5</option>
-                <option value="2">2 out of 5</option>
-                <option value="3">3 out of 5</option>
-                <option value="4">4 out of 5</option>
-                <option value="5">5 out of 5</option>
-            </select>
+            <label for="rating">Please provide a rating between 1 and 5, with 5 being the best rating</label>
+            <input type="number" id="number" name="amount" value="1" min="1" max="5" />
         </p>
 
         <p>
             <label for="user-review">Your Review:</label>
-            <textarea id="user-review" name="user-review" required ></textarea>
+            <textarea id="user-review" name="user-review" required maxlength="150"></textarea>
         </p>
             
         <p>
