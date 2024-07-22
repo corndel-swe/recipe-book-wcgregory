@@ -76,7 +76,7 @@ website.
       [most appropriate elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
       for each part of your page.
 
-- [ ] Add a form on your page which would allow users to rate and comment on the
+- [x] Add a form on your page which would allow users to rate and comment on the
       recipes. How many different
       [field input types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
       can you include?
