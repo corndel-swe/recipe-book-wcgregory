@@ -109,19 +109,19 @@ techniques and see what you can come up with.
 
 myimage note https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-PguKl9Vo1fJny9vRz7XBHcP1Rlo1JyhlA&s
 
-- [ ] Learn the basics of
+- [x] Learn the basics of
       [styling elements and classes](https://tech-docs.corndel.com/html-css/styling-elements.html)
 
-- [ ] Get acquainted with
+- [x] Get acquainted with
       [Flex Box](https://tech-docs.corndel.com/html-css/flexbox.html)
 
-- [ ] Flex Box can be a little tricky so spend some time on
+- [x] Flex Box can be a little tricky so spend some time on
       [Flex Box Froggy](https://flexboxfroggy.com/) to get the ideas down.
 
-- [ ] Learn how to layout a website using
+- [x] Learn how to layout a website using
       [CSS grid](https://tech-docs.corndel.com/html-css/layouts-with-grid.html)
 
-- [ ] [Grid garden](https://cssgridgarden.com/) can help you get used to CSS
+- [x] [Grid garden](https://cssgridgarden.com/) can help you get used to CSS
       grid!
 
 Now for the recipe book! Go ahead and style it any way you like. Make it
