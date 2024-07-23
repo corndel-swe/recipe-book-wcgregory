@@ -107,6 +107,8 @@ with, we'll just try and get the basic layout and styling right, but styling
 with CSS is an incredibly deep and fun topic. Keep experimenting with different
 techniques and see what you can come up with.
 
+myimage note https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-PguKl9Vo1fJny9vRz7XBHcP1Rlo1JyhlA&s
+
 - [ ] Learn the basics of
       [styling elements and classes](https://tech-docs.corndel.com/html-css/styling-elements.html)
 

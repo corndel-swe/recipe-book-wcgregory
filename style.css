@@ -1,0 +1,49 @@
+body {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+    background-color: lightgoldenrodyellow;
+}
+
+.banner-title {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.footer {
+    background-color: lightcyan;
+}
+
+.footer-title {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.container {
+    display: grid;
+  }
+
+.main-header {
+    color: blue;
+    font-size: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    background-image: url("images/rb-logo.png");
+}
+
+.image {
+    width: 300px;
+    height: 150px
+}
+
+.main-image {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}

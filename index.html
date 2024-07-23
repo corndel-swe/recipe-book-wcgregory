@@ -1,59 +1,65 @@
 <!DOCTYPE html>
 <html lang="en-GB">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Recipe book</title>
 </head>
+
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="./">Recipes</a></li>
-                <li><a href="./starters/base.html">Starters</a></li>
-                <li><a href="./mains/base.html">Mains</a></li>
-                <li><a href="./deserts/base.html">Deserts</a></li>
-                <li><a href="./about/me.html">About Me</a></li>
-            </ul>
+    <header class="banner">
+        <nav class="banner-title">
+            <span><a href="./">Recipes</a></span>
+            <span><a href="./starters/base.html">Starters</a></span>
+            <span><a href="./mains/base.html">Mains</a></span>
+            <span><a href="./deserts/base.html">Deserts</a></span>
+            <span><a href="./about/me.html">About Me</a></span>
         </nav>
     </header>
-    <h2>Recipe book</h2>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-PguKl9Vo1fJny9vRz7XBHcP1Rlo1JyhlA&s"
-    alt="An image of a recipe book, the book is open at the first page" />
 
-    <h3>Recipe Index</h3>
+    <main class="container">
+        <h2 class="main-header">
+            <u>Recipe book</u>
+        </h2>
 
-    <h4>Starters</h4>
-    <section>
-        <ol>
-            <li><a href="./starters/avocado_on_toast.html">Avocado on Toast</a></li>
-        </ol>
-    </section>
+        <section class="main-image">
+            <img src="./images/rb-logo.png"
+            alt="A cartoon image of vegetables" class="image"/>
+        </section>
 
-    <h4>Mains</h4>
-    <section>
-        <ol>
-            <li><a href="./mains/pizza.html">Pizza</a></li>
-        </ol>
-    </section>
+        <h3>Recipe Index</h3>
 
-    <h4>Deserts</h4>
-    <section>
-        <ol>
-            <li><a href="./deserts/apple_crumble.html">Apple Crumble</a></li>
-        </ol>
-    </section>
+        <h4>Starters</h4>
+        <section>
+            <ol>
+                <li><a href="./starters/avocado_on_toast.html">Avocado on Toast</a></li>
+            </ol>
+        </section>
+
+        <h4>Mains</h4>
+        <section>
+            <ol>
+                <li><a href="./mains/pizza.html">Pizza</a></li>
+            </ol>
+        </section>
+
+        <h4>Deserts</h4>
+        <section>
+            <ol>
+                <li><a href="./deserts/apple_crumble.html">Apple Crumble</a></li>
+            </ol>
+        </section>
     
-    <p>
-        <br><br><br>
-        <a href="./about/me.html">About Me</a>
-    </p>
+    </main>
 
-    <p>
-        <br>
-        Follow this link to
-        <a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>.
-    </p>
+    <footer class="footer">
+        <nav class="footer-title">
+            <span><a href="./about/me.html">About Me</a></span>
+            <span>Follow this link to <a href="https://www.mozilla.org/en-US/">the Mozilla homepage.</a></span>
+        </nav>
+    </footer>
 
 </body>
 </html>
