@@ -59,24 +59,24 @@ The goal today is to make a recipe book in HTML. It won't look great to begin
 with, but we're setting up a solid foundation for a sleek and accessible
 website.
 
-- [ ] Have a look at
+- [x] Have a look at
       [how to set up a HTML document](https://tech-docs.corndel.com/html-css/html-document.html)
 
-- [ ] Find out about
+- [x] Find out about
       [HTML elements](https://tech-docs.corndel.com/html-css/html-elements.html)
 
-- [ ] Learn about
+- [x] Learn about
       [semantic HTML](https://tech-docs.corndel.com/html-css/semantic-html.html)
 
-- [ ] Get introduced to
+- [x] Get introduced to
       [HTML forms](https://tech-docs.corndel.com/html-css/html-forms.html)
 
-- [ ] Dig out some of your favourite recipes and write them up in HTML. Make
+- [x] Dig out some of your favourite recipes and write them up in HTML. Make
       sure to research and choose the
       [most appropriate elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
       for each part of your page.
 
-- [ ] Add a form on your page which would allow users to rate and comment on the
+- [x] Add a form on your page which would allow users to rate and comment on the
       recipes. How many different
       [field input types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
       can you include?
@@ -107,19 +107,21 @@ with, we'll just try and get the basic layout and styling right, but styling
 with CSS is an incredibly deep and fun topic. Keep experimenting with different
 techniques and see what you can come up with.
 
-- [ ] Learn the basics of
+myimage note https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-PguKl9Vo1fJny9vRz7XBHcP1Rlo1JyhlA&s
+
+- [x] Learn the basics of
       [styling elements and classes](https://tech-docs.corndel.com/html-css/styling-elements.html)
 
-- [ ] Get acquainted with
+- [x] Get acquainted with
       [Flex Box](https://tech-docs.corndel.com/html-css/flexbox.html)
 
-- [ ] Flex Box can be a little tricky so spend some time on
+- [x] Flex Box can be a little tricky so spend some time on
       [Flex Box Froggy](https://flexboxfroggy.com/) to get the ideas down.
 
-- [ ] Learn how to layout a website using
+- [x] Learn how to layout a website using
       [CSS grid](https://tech-docs.corndel.com/html-css/layouts-with-grid.html)
 
-- [ ] [Grid garden](https://cssgridgarden.com/) can help you get used to CSS
+- [x] [Grid garden](https://cssgridgarden.com/) can help you get used to CSS
       grid!
 
 Now for the recipe book! Go ahead and style it any way you like. Make it
